@@ -9,7 +9,7 @@ Buttons and images
 Showing alert messages
 
 
-Challenge
+CHALLENGE:
 
 One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try extending this app to make sure you fully understand what’s going on:
 
