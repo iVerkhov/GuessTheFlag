@@ -10,7 +10,6 @@ Showing alert messages
 
 
 CHALLENGE:
-
 One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try extending this app to make sure you fully understand what’s going on:
 
 Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
